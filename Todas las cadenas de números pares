@@ -1,2 +1,5 @@
 //Todas las cadenas de números pares
-([0-9]*([ 2 4 6 8])
+digitos -> [0-9]
+pares -> [0 2 4 6 8]
+cadenas -> digitos* pares
+
