@@ -1,0 +1,2 @@
+//Todas las cadenas de dígitos que no contiene cero al principio excepto cero.
+0|(([1-9])([1-9])*)
