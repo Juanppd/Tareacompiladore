@@ -1,0 +1,4 @@
+//Los números hexadecimales del lenguaje C
+digito->[0-9 ]
+letra->[A-F]
+hexadecimal->(digito|letra)+
