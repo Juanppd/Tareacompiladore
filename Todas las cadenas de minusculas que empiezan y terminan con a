@@ -1,0 +1,3 @@
+//Todas las cadenas de minusculas que empiezan y terminan con a
+minusculas->a([a-z])*a
+
