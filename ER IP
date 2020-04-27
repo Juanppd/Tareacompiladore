@@ -1,0 +1,6 @@
+//Expreción regular de dirección IP
+unaCifra->[0-9]
+dosCifras-> unaCifra unaCifra
+tres cifras-> [0-1] unaCifra unaCifra|2 [0-4] unaCifra|25 [0-5]
+num->unaCifra|dosCifras|tresCifras
+ip->num.num.num.num
